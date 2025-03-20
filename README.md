@@ -1,12 +1,12 @@
-#lrsv_oysters
+# lrsv_oysters
 
 This file describes the subprocess of long read structural variations of oysters (https://github.com/OZTaekOppa/lrsv_oysters?tab=readme-ov-file), adding additional SV analysis.
 If you need the whole SV analysis process, please visit the forementioned website.
 
-##Citation
+## Citation
 Hyungtaek Jung et al. 2024: Unraveling the biotechnological potential of Crassostrea gigas: comparative genomics and structural variations, BioRxiv.
 
-##Contents:
+## Contents:
 - [LICENSE](#license)
 - [GETTING STARTED](#getting-started)
 - [FAQ](#faq)
@@ -14,4 +14,11 @@ Hyungtaek Jung et al. 2024: Unraveling the biotechnological potential of Crassos
 - [AUTHORS](#authors)
 - [COPYRIGHT](#copyright)
 
-##license
+## FAQ
+We encourage users to use the [Issues](../../issues)
+
+## AUTHORS
+Hyungtaek Jung and et al. 2024 Unraveling the biotechnological potential of Crassostrea gigas: comparative genomics & structural variations.
+
+## COPYRIGHT
+The full scripts are distributed under the MIT license.
